@@ -1,0 +1,11 @@
+requests
+flask_sqlalchemy
+flask_restful
+flask_bcrypt
+flask_cors
+Flask
+pymysql
+python-dotenv
+pathlib
+gspread
+datetime
